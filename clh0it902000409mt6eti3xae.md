@@ -54,3 +54,5 @@ Learning is not just about acquiring knowledge; it's also about developing probl
 Feedback is essential for growth and improvement. ChatGPT can provide feedback on your work or progress, helping you identify areas for improvement and celebrate your successes.
 
 In conclusion, ChatGPT is a powerful tool for learning anything, from a new language to a complex technical skill. By utilizing its capabilities and implementing the 10 methods outlined in this article, you can maximize your learning potential and achieve your goals faster and more efficiently than ever before. So why wait? Start using ChatGPT today and unlock your full learning potential.
+
+Credits: [https://youtu.be/MnDudvCyWpc](https://youtu.be/MnDudvCyWpc)
